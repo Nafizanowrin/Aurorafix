@@ -1,4 +1,4 @@
-##Aurora
+## Aurora
 
 Welcome to Salon Aurora – a modern, full-featured web application designed for effortless salon service booking and management. Built with the latest web technologies, Salon Aurora delivers a sleek, responsive, and user-friendly experience, allowing users to explore services, schedule appointments, and manage bookings with ease and confidence.
 
